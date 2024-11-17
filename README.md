@@ -1,8 +1,8 @@
  <H3>NAME: pravin kumar G 
 <H3>REGISTER NO:212222230109</H3>
 <H3>EX.NO:8</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
+<H3>DATE:4.10.24</H3>
+<H1 ALIGN =CENTER>Ex :8 Implementation of Speech Recognition</H1>
 
 ## AIM:
 To implement the conversion of live speech to text.
